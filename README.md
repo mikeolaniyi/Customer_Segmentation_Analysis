@@ -4,6 +4,12 @@
 
 ![View Analysis Dashboard](https://shappempire-my.sharepoint.com/:x:/g/personal/mikeolaniyi_shappempire_onmicrosoft_com/Eekf-EVeDVRNqB898dvneCYB1WnPIYiImT1GtXQKP6W27g?e=JfApYz)
 
+## Technology:
+- Excel
+- Power Pivot
+- Power Query
+
+
 ## Overview
 This dataset provides comprehensive customer data suitable for segmentation analysis. It includes anonymized demographic, transactional, and behavioral attributes, allowing for detailed exploration of customer segments. Leveraging this dataset, marketers, data scientists, and business analysts can uncover valuable insights to optimize targeted marketing strategies and enhance customer engagement. Whether you're looking to understand customer behavior or improve campaign effectiveness, this dataset offers a rich resource for actionable insights and informed decision-making.
 
@@ -31,11 +37,11 @@ This dataset provides comprehensive customer data suitable for segmentation anal
 
 ## Analysis Findings:
 
-- The segment analysis indicates that the first quarter of 2018 saw the highest volume of premium policy purchases, totaling ₹ 7,803,178, while the second quarter had the lowest, amounting to ₹ 5,942,936.
+- The segment analysis indicates that the first quarter of 2018 saw the highest volume of premium policy purchases, totalling ₹ 7,803,178, while the second quarter had the lowest, amounting to ₹ 5,942,936.
 - Salespersons, followed by Entrepreneurs, accounted for the highest premium policy purchases, with ₹ 24,247,490 and ₹ 20,548,935 respectively.
-- Within the Education segment, customers holding Associate Degrees made the most premium policy purchases, totaling ₹ 37,384,804, followed by those with Doctorate Degrees, totalling ₹ 36,458,142.
+- Within the Education segment, customers holding Associate Degrees made the most premium policy purchases, totalling ₹ 37,384,804, followed by those with Doctorate Degrees, totalling ₹ 36,458,142.
 - Male customers dominated premium policy purchases, representing 51% of the total policy amount, with ₹ 82,115,032 in purchases.
-- Despite being the smallest Island and City, Lakshadweep had the highest number of premium customers, with 2,109 policies purchased, totaling ₹ 6,505,855, followed by Himachal Pradesh with 1,963 customers and ₹ 5,837,424 in purchases.
+- Despite being the smallest Island and City, Lakshadweep had the highest number of premium customers, with 2,109 policies purchased, totalling ₹ 6,505,855, followed by Himachal Pradesh with 1,963 customers and ₹ 5,837,424 in purchases.
 - Analysis of Occupation income levels and premium amounts reveals that Salesperson professionals earn the highest salaries and also lead in premium policy purchases.
 - Customers predominantly interact through chat, although they prefer post mail and email as communication channels, and weekends as the preferred time for contact. Additionally, German followed by French are the most preferred languages.
 - Customers with Policy1 exhibit behaviors predominantly associated with Policy3.
