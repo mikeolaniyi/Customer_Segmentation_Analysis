@@ -2,7 +2,7 @@
 
 ![Customer-Segmentation](https://github.com/mikeolaniyi/Customer_Segmentation_Analysis/assets/120651356/a109c17f-bca7-49e8-8ef9-5ee893a42abc)
 
-[View Analysis Dashboard](https://shappempire-my.sharepoint.com/:x:/g/personal/mikeolaniyi_shappempire_onmicrosoft_com/Eekf-EVeDVRNqB898dvneCYB1WnPIYiImT1GtXQKP6W27g?e=JfApYz)
+## [View Analysis Dashboard](https://shappempire-my.sharepoint.com/:x:/g/personal/mikeolaniyi_shappempire_onmicrosoft_com/Eekf-EVeDVRNqB898dvneCYB1WnPIYiImT1GtXQKP6W27g?e=JfApYz)
 
 ## Technology:
 - Excel
