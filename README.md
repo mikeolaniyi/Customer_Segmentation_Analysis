@@ -1,4 +1,5 @@
 # Customer Segmentation Analysis
+By Michael Michael Jeremiah
 
 ![Customer-Segmentation](https://github.com/mikeolaniyi/Customer_Segmentation_Analysis/assets/120651356/a109c17f-bca7-49e8-8ef9-5ee893a42abc)
 
